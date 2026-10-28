@@ -1,0 +1,16 @@
+node_modules/
+artifacts/
+cache/
+typechain-types/
+keys/*.ptau
+keys/*.zkey
+keys/*.wtns
+keys/*.r1cs
+keys/*.sym
+keys/ageProof_js/
+keys/proof.json
+keys/public.json
+keys/verification_key.json
+*.log
+.env
+.DS_Store
